@@ -1,5 +1,5 @@
 ---
-pdf: http://proceedings.mlr.press/v29/Premachandra13/Premachandra13.pdf
+pdf: http://proceedings.mlr.press/v29/Premachandra13.pdf
 title: Aggregating Predictions via Sequential Mini-Trading
 abstract: Prediction markets which trade on contracts representing unknown future
   outcomes are designed specifically to aggregate expert predictions via the market

@@ -1,5 +1,5 @@
 ---
-pdf: http://proceedings.mlr.press/v29/Glasmachers13/Glasmachers13.pdf
+pdf: http://proceedings.mlr.press/v29/Glasmachers13.pdf
 title: Accelerated Coordinate Descent with Adaptive Coordinate Frequencies
 abstract: Coordinate descent (CD) algorithms have become the method of choice for
   solving a number of machine learning tasks. They are particularly popular for training
