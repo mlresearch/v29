@@ -1,0 +1,48 @@
+# Site settings
+# Auto generated from v29.bib
+---
+booktitle: Proceedings of the 5th Asian Conference on Machine Learning
+shortname: ACML
+year: '2013'
+volume: 29
+start: 2013-11-13
+end: 2013-11-15
+published: 2013-10-21
+sections:
+- name: preface
+  title: Front Matter
+- name: default
+  title: Accepted Papers
+layout: proceedings
+id: ACML2013
+month: 0
+abstract: ''
+editor:
+- given: Cheng Soon
+  family: Ong
+- given: Tu Bao
+  family: Ho
+title: Proceedings of the 5th Asian Conference on Machine Learning
+email: ''
+description: Proceedings of the 5th Asian Conference on Machine Learning, Australian
+  National University, Canberra, Australia
+url: http://proceedings.mlr.press
+baseurl: "/v29"
+twitter_username: mlresearch
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
+github:
+  edit: true
+  repository: v29
+conference:
+  name: Asian Conference on Machine Learning
+  url: 
+  location: Australian National University, Canberra, Australia
+  dates:
+  - 2013-11-13
+  - 2013-11-14
+  - 2013-11-15
+analytics:
+  google:
+    tracking_id: UA-92432422-1
