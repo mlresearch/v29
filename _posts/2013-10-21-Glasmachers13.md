@@ -12,6 +12,7 @@ abstract: Coordinate descent (CD) algorithms have become the method of choice fo
   We demonstrate the usefulness of our approach on a number of large scale machine
   learning problems.
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: Glasmachers13
 month: 0
 firstpage: 72

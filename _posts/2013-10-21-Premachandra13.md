@@ -15,6 +15,7 @@ abstract: Prediction markets which trade on contracts representing unknown futur
   rate in SMD. We prove several properties of this scheme and show that it can improve
   the stability of prices in sequentially traded prediction markets.
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: Premachandra13
 month: 0
 firstpage: 373
