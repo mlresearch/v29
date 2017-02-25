@@ -21,10 +21,20 @@ editor:
   family: Ong
 - given: Tu Bao
   family: Ho
-title: Proceedings of the 5th Asian Conference on Machine Learning
-email: ''
-description: Proceedings of the 5th Asian Conference on Machine Learning, Australian
-  National University, Canberra, Australia
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the 5th Asian Conference on Machine Learning
+    Held in Australian National University, Canberra, Australia on 13-15 November 2013
+
+  Published as Volume 29 by the Proceedings of Machine Learning Research on 21 October 2013.
+
+  Volume Edited by:
+    Cheng Soon Ong
+    Tu Bao Ho
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
 url: http://proceedings.mlr.press
 baseurl: "/v29"
 twitter_username: mlresearch
@@ -34,6 +44,7 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v29
+email: ''
 conference:
   name: Asian Conference on Machine Learning
   url: 
