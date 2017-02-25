@@ -16,12 +16,13 @@ series: Proceedings of Machine Learning Research
 id: ACML2013
 month: 0
 abstract: ''
+tex_title: 
+title: Proceedings of Machine Learning Research
 editor:
 - given: Cheng Soon
   family: Ong
 - given: Tu Bao
   family: Ho
-title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the 5th Asian Conference on Machine Learning
     Held in Australian National University, Canberra, Australia on 13-15 November 2013

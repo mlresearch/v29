@@ -18,6 +18,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: Premachandra13
 month: 0
+tex_title: Aggregating Predictions via Sequential Mini-Trading
 firstpage: 373
 lastpage: 387
 page: 373-387

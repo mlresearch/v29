@@ -15,6 +15,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: Glasmachers13
 month: 0
+tex_title: Accelerated Coordinate Descent with Adaptive Coordinate Frequencies
 firstpage: 72
 lastpage: 86
 page: 72-86
