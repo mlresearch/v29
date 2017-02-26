@@ -22,7 +22,8 @@ tex_title: Aggregating Predictions via Sequential Mini-Trading
 firstpage: 373
 lastpage: 387
 page: 373-387
-sections: 
+order: 373
+cycles: false
 author:
 - given: Mindika
   family: Premachandra

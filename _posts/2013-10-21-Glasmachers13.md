@@ -19,7 +19,8 @@ tex_title: Accelerated Coordinate Descent with Adaptive Coordinate Frequencies
 firstpage: 72
 lastpage: 86
 page: 72-86
-sections: 
+order: 72
+cycles: false
 author:
 - given: Tobias
   family: Glasmachers
