@@ -61,6 +61,7 @@ conference:
   - 2013-11-13
   - 2013-11-14
   - 2013-11-15
+  number: 5
 analytics:
   google:
     tracking_id: UA-92432422-1
